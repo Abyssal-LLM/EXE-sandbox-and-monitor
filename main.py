@@ -1,5 +1,5 @@
 """
-EXE Sandbox - Cyberpunk Monitoring Edition
+EXE Sandbox
 ==========================================
 
 A Windows-native EXE sandbox with a hyper-styled cyberpunk/terminal GUI.
