@@ -5,26 +5,6 @@ EXE Sandbox - Cyberpunk Monitoring Edition
 A Windows-native EXE sandbox with a hyper-styled cyberpunk/terminal GUI.
 Launch executables in a monitored environment and watch everything they do
 in real-time.
-
-This application provides:
-- Drag-and-drop EXE loading
-- Real-time monitoring of file, registry, network, and process operations
-- Cyberpunk-themed dark terminal interface
-- Process tree visualization
-- Export functionality for logs
-
-Usage:
-    python main.py
-
-Requirements:
-    - Python 3.8+
-    - PySide6
-    - pywin32
-    - psutil
-    - Windows OS
-
-Author: YandereDev Style
-Version: 1.0.0
 """
 import sys
 import os
