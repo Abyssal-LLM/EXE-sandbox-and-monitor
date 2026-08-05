@@ -47,8 +47,8 @@ A Windows-native executable sandbox with real-time monitoring and a cyberpunk te
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/exe-sandbox.git
-cd exe-sandbox
+git clone https://github.com/Abyssal-LLM/EXE-sandbox-and-monitor.git
+cd EXE-sandbox-and-monitor
 pip install -r requirements.txt
 ```
 
@@ -76,7 +76,7 @@ python main.py
 ## Project Structure
 
 ```
-exe_sandbox/
+EXE-sandbox-and-monitor/
 ├── main.py                          # Entry point
 ├── requirements.txt                 # Dependencies
 ├── sandbox/
